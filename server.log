@@ -17,3 +17,7 @@ Tue Apr 03 2018 12:28:04 GMT+0200 (W. Europe Daylight Time): GET /projects
 Tue Apr 03 2018 12:28:07 GMT+0200 (W. Europe Daylight Time): GET /about
 Tue Apr 03 2018 12:28:08 GMT+0200 (W. Europe Daylight Time): GET /projects
 Tue Apr 03 2018 12:28:09 GMT+0200 (W. Europe Daylight Time): GET /
+Tue Apr 03 2018 13:41:45 GMT+0200 (W. Europe Daylight Time): GET /api/json?tree=jobs[name,builds[number,result,building]%7B0,3%7D,jobs[name,builds[number,result,building]%7B0,3%7D,jobs[name,builds[number,result,building]%7B0,3%7D,jobs[name,builds[number,result,building]%7B0,3%7D,jobs[name,builds[number,result,building]%7B0,3%7D,jobs[name,builds[number,result,building]%7B0,3%7D]]]]]]
+Tue Apr 03 2018 13:41:49 GMT+0200 (W. Europe Daylight Time): GET /api/json?tree=jobs[name,builds[number,result,building]%7B0,3%7D,jobs[name,builds[number,result,building]%7B0,3%7D,jobs[name,builds[number,result,building]%7B0,3%7D,jobs[name,builds[number,result,building]%7B0,3%7D,jobs[name,builds[number,result,building]%7B0,3%7D,jobs[name,builds[number,result,building]%7B0,3%7D]]]]]]
+Tue Apr 03 2018 13:41:51 GMT+0200 (W. Europe Daylight Time): GET /
+Tue Apr 03 2018 13:41:52 GMT+0200 (W. Europe Daylight Time): GET /favicon.ico
